@@ -1,7 +1,7 @@
 # Chat Application - Part 1
 
 ## Student Information
-- Name: Andiswa
+- Name: Esamisipho
 - Student Number: ST12345
 - Module: PROG5121
 
